@@ -1,3 +1,5 @@
-mysql: 12qw3123123
+mysql: 
+  user: 12qw3123123
 
-person: goujiajun
+person: 
+  name: goujiajun
